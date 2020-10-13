@@ -1,0 +1,3 @@
+<h1>Nested Live View?</h1>
+
+<%= live_render(@conn, LiveTestBugWeb.PageLive) %>
